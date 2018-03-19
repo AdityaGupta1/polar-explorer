@@ -6,3 +6,5 @@ keyboard_set_map(ord("S"), vk_down);
 keyboard_set_map(ord("D"), vk_right);
 
 window_set_fullscreen(true);
+
+tilemap = layer_tilemap_get_id("tiles");

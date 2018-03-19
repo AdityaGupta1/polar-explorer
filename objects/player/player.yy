@@ -75,6 +75,20 @@
             "value": "True",
             "varName": "canShoot",
             "varType": 3
+        },
+        {
+            "id": "421ce565-4d52-4882-b4de-9392d4f995bd",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "collisionTilemap",
+            "varType": 0
         }
     ],
     "solid": false,
