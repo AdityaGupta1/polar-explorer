@@ -1,0 +1,81 @@
+{
+    "id": "e801a263-3acb-4620-890e-e6afd9bd6dff",
+    "modelName": "GMObject",
+    "mvc": "1.0",
+    "name": "obj_slider",
+    "eventList": [
+        {
+            "id": "42c5e919-7729-4797-bb6e-d6e019fad31f",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "e801a263-3acb-4620-890e-e6afd9bd6dff"
+        }
+    ],
+    "maskSpriteId": "00000000-0000-0000-0000-000000000000",
+    "overriddenProperties": null,
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "persistent": false,
+    "physicsAngularDamping": 0.1,
+    "physicsDensity": 0.5,
+    "physicsFriction": 0.2,
+    "physicsGroup": 0,
+    "physicsKinematic": false,
+    "physicsLinearDamping": 0.1,
+    "physicsObject": false,
+    "physicsRestitution": 0.1,
+    "physicsSensor": false,
+    "physicsShape": 1,
+    "physicsShapePoints": null,
+    "physicsStartAwake": true,
+    "properties": [
+        {
+            "id": "3419ef56-6ddf-49ab-8d7e-cf585b686fba",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "initial_y",
+            "varType": 0
+        },
+        {
+            "id": "48dbb728-e600-4b9d-80be-5de9c117f324",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0.2",
+            "varName": "speed",
+            "varType": 0
+        },
+        {
+            "id": "56f841f4-47a6-4888-9cd4-d179559dc129",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "value",
+            "varType": 0
+        }
+    ],
+    "solid": false,
+    "spriteId": "bd3f4e41-54ca-44cf-b578-a1b88e98e666",
+    "visible": true
+}

@@ -2,7 +2,7 @@
     "id": "83267c03-0f3b-4c7a-a902-8d4da798945c",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spaceship_tilesheet",
+    "name": "sprite_spaceship_tileset",
     "For3D": false,
     "HTile": false,
     "VTile": false,
