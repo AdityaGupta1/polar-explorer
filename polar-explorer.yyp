@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "1ebb23b8-83a7-4e6d-accd-a8e63460aa1b",
+            "Value": {
+                "id": "c05cfa3b-83f4-4f35-9826-4f5398d75a3e",
+                "resourcePath": "sprites\\sprite_enemy_bullet\\sprite_enemy_bullet.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "32fbbee6-f7f7-4d97-93a0-2a5f031b669a",
             "Value": {
                 "id": "57f342f2-2dd4-48e5-ae3e-3fb652fb43fa",

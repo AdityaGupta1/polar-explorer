@@ -5,16 +5,6 @@
     "name": "obj_entity",
     "eventList": [
         {
-            "id": "7f04df01-5511-45d5-b0bb-a560d55aef61",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "01454bf3-1557-4449-8513-8474657f3028"
-        },
-        {
             "id": "d83d6aba-139d-45a1-b0fc-956a2e11752c",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -43,6 +33,16 @@
             "enumb": 11,
             "eventtype": 7,
             "m_owner": "01454bf3-1557-4449-8513-8474657f3028"
+        },
+        {
+            "id": "647b8dae-a15a-4de8-95c3-87a5739e104f",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 2,
+            "m_owner": "01454bf3-1557-4449-8513-8474657f3028"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -61,7 +61,36 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "4bc843f9-1cd1-4b73-8c9f-8079cf3a6b43",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "500",
+            "varName": "health",
+            "varType": 0
+        },
+        {
+            "id": "5971e95f-837e-45ef-92ab-56d1a17271ce",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "True",
+            "varName": "canShoot",
+            "varType": 3
+        }
+    ],
     "solid": false,
     "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true

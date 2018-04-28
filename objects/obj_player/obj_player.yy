@@ -53,6 +53,16 @@
             "enumb": 0,
             "eventtype": 3,
             "m_owner": "8c55a267-ab37-492a-9922-6daf97de24d1"
+        },
+        {
+            "id": "154fc6e7-f67b-4e37-adc3-ff63e2d6cc24",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "78fd1519-6359-4eab-aca5-6ead217ce4b5",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "8c55a267-ab37-492a-9922-6daf97de24d1"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -72,20 +82,7 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": [
-        {
-            "id": "18eddb00-c117-4e9d-97e8-7f18fbdc317f",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "True",
-            "varName": "canShoot",
-            "varType": 3
-        }
+        
     ],
     "solid": false,
     "spriteId": "1dc58d0e-c028-4277-a0ac-80cf669bf48d",
