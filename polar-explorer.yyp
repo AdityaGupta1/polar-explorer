@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "5f7b11cf-6bc8-4cc9-9f92-a9a4440a0de2",
+            "Value": {
+                "id": "96efcff4-2787-4b57-844e-b0ef729d073c",
+                "resourcePath": "objects\\room_generator\\room_generator.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "731d7b49-867d-40c8-8000-3f4cbe23f430",
             "Value": {
                 "id": "7a5a2241-60f3-436d-bc87-c409536880b2",
@@ -271,6 +279,14 @@
             }
         },
         {
+            "Key": "c72905bc-b001-4dd1-91e0-5491181745ec",
+            "Value": {
+                "id": "361d7beb-f39f-4171-84c7-a6ef135346da",
+                "resourcePath": "scripts\\getLiveNeighbors\\getLiveNeighbors.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "c9a53590-7e36-4790-baa0-65226fc20047",
             "Value": {
                 "id": "acbb6e74-8992-485f-9f73-5c963eaeef5e",
@@ -344,7 +360,7 @@
         }
     ],
     "script_order": [
-        
+        "c72905bc-b001-4dd1-91e0-5491181745ec"
     ],
     "tutorial": ""
 }
